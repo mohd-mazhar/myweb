@@ -1,0 +1,9 @@
+#include<stio.h>
+#include<stdlib.h>
+int main(){
+int sum;
+int n1,n2;
+sum=n1+n2;
+printf("sum of digits are=%d",sum);
+return 0;
+}
